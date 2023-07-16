@@ -5,7 +5,7 @@
 - [Installation](#installation)
 
 ## Introduction
-This Book Scraper project is a web scraping project that I have developed as part of my portfolio. The project demonstrates my skills in web scraping, data extraction, and data storage. The primary goal of the project is to collect book data from https://books.toscrape.com/ and store it in a database. In the future, I plan to integrate GPT (Generative Pre-trained Transformer) to enhance the data with more detailed information.
+This Book Scraper project is a web scraping project that I have developed as part of my portfolio. The project demonstrates my skills in web scraping, data extraction, and data storage. The primary goal of the project is to collect book data from https://books.toscrape.com/ and store it in a database. In the future, I plan to integrate GPT to enhance the data with more detailed information.
 
 ## Installation and Usage
 To install this project, follow these steps:
