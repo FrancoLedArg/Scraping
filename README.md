@@ -1,5 +1,7 @@
 # Project Documentation
 
+Quick disclaimer: for this project i learned python + scrapy in like a month, don't expect anything too complex (?
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
